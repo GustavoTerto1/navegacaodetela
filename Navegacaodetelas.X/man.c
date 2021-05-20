@@ -83,12 +83,5 @@ void main(void)
                     else
                         estado_senha = 20;
                     break;
-                    
-         }     }
-
-
-
-
-
-
-
+         }     
+}
